@@ -1,0 +1,20 @@
+.step-counter{
+    position: relative;
+    top: 26px;
+    left: 0;
+    z-index: 2;
+}
+
+* {
+    font-family: "Recursive", sans-serif;
+}
+
+.background {
+    background-color: #282a36;
+}
+
+
+.footer {
+    width: 95%;
+    height: 70vh;
+}
