@@ -3,18 +3,29 @@
     top: 26px;
     left: 0;
     z-index: 2;
+    background-color: #646566;
 }
 
 * {
     font-family: "Recursive", sans-serif;
 }
 
-.background {
-    background-color: #282a36;
+.list-group-item{
+    background-color: transparent;
 }
 
+.card-header{
+    background-color: #e9ecef;
+}
+
+.card-body{
+    background-color:  #ced4da;
+}
+
+.main{
+    width: 90%;
+}
 
 .footer {
     width: 95%;
-    height: 70vh;
 }
